@@ -7,6 +7,8 @@ package DataStructure.Array;
 
 public class MaximumSumSubArray {
 
+    // Time Complexity : O(n)
+    // Space Complexity: O(1)
     public int maxSubArray(int[] nums) {
         int currSum = nums[0];
         int maxSum = nums[0];
