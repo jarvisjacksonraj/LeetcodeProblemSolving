@@ -9,3 +9,5 @@
 5) **[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)** **[[solution](src/main/java/DataStructure/Array/MaxConsecutiveOnes.java)]**
 6) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
 7) **[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)** **[[solution](src/main/java/DataStructure/Array/FindEvenNumberDigits.java)]**
+8) **[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)** **[[solution](src/main/java/DataStructure/Array/KidsWithCandies.java)]**
+
