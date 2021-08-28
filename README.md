@@ -8,3 +8,4 @@
 4) **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/RemoveDuplicates.java)]**
 5) **[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)** **[[solution](src/main/java/DataStructure/Array/MaxConsecutiveOnes.java)]**
 6) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
+7) **[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)** **[[solution](src/main/java/DataStructure/Array/FindEvenNumberDigits.java)]**
