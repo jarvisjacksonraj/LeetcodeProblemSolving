@@ -12,3 +12,8 @@
 8) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
 9) **[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)** **[[solution](src/main/java/DataStructure/Array/FindEvenNumberDigits.java)]**
 10) **[53. Maximum SubArray](https://leetcode.com/problems/maximum-subarray/)** **[[solution](src/main/java/DataStructure/Array/MaximumSumSubArray.java)]**
+
+### Matrix Problems
+#### Easy:
+1) **[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)** **[[solution](src/main/java/DataStructure/Matrix/MatrixDiagonalSum.java)]**
+2) **[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)** **[[solution](src/main/java/DataStructure/Matrix/FlippingImageMatrix.java)]**
