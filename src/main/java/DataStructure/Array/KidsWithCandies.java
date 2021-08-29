@@ -13,9 +13,9 @@ public class KidsWithCandies {
     // Time Complexity : O(n^2)
     // Space Complexity: O(1)
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-
-        List<Boolean> luckyKid = new ArrayList<>();
-        Boolean state = false;
+        boolean state = false;
+        List<Boolean> luckyKids = new ArrayList<>();
+        
         for (Integer candy : candies) {
             int currentCandy = candy + extraCandies;
             for (int i = 0; i < candies.length; i++) {
@@ -26,9 +26,10 @@ public class KidsWithCandies {
                     state = true;
                 }
             }
-            luckyKid.add(state);
+            luckyKids.add(state);
         }
-        return luckyKid;
+
+        return luckyKids;
     }
 
     public List<Boolean> kidsWithCandiesGreedy(int[] candies, int extraCandies) {
@@ -37,12 +38,15 @@ public class KidsWithCandies {
         // Space Complexity: O(1)
         List<Boolean> luckyKid = new ArrayList<>();
         int maxCandy = Integer.MIN_VALUE;
+
         for (Integer candy : candies) {
             maxCandy = (maxCandy > candy) ? maxCandy : candy;
         }
+
         for (Integer candy : candies) {
             luckyKid.add(candy + extraCandies >= maxCandy);
         }
+
         return luckyKid;
     }
 
