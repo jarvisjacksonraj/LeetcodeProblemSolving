@@ -1,7 +1,7 @@
 package DataStructure.Array;
 
 /**
- * Array : Easy
+ * Array: Easy
  * 27. Remove Element
  */
 
