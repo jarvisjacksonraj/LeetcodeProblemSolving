@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Array : Easy
+ * Array: Easy
  * 1431. Kids With the Greatest Number of Candies
  */
 
@@ -15,7 +15,7 @@ public class KidsWithCandies {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         boolean state = false;
         List<Boolean> luckyKids = new ArrayList<>();
-        
+
         for (Integer candy : candies) {
             int currentCandy = candy + extraCandies;
             for (int i = 0; i < candies.length; i++) {
