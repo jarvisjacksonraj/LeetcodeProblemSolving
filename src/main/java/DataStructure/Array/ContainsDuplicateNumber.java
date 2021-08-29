@@ -4,13 +4,13 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 /**
- * Array : Easy
+ * Array: Easy
  * 217. Contains Duplicate
  */
 
 public class ContainsDuplicateNumber {
 
-    // Time Complexity : O(nLogn)
+    // Time Complexity : O(nlogn)
     // Space Complexity: O(1)
     public boolean containsDuplicateSort(int[] nums) {
         //Sorting Array in Ascending order
@@ -26,12 +26,12 @@ public class ContainsDuplicateNumber {
     // Time Complexity : O(n)
     // Space Complexity: O(n)
     public boolean containsDuplicateHashSet(int[] nums) {
-        HashSet<Integer> hs = new HashSet<>();
+        HashSet<Integer> uniqueSet = new HashSet<>();
         for (Integer num : nums) {
-            if (hs.contains(num)) {
+            if (uniqueSet.contains(num)) {
                 return true;
             }
-            hs.add(num);
+            uniqueSet.add(num);
         }
         return false;
     }
