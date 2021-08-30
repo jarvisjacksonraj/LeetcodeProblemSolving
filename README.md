@@ -10,8 +10,9 @@
 6) **[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)** **[[solution](src/main/java/DataStructure/Array/MaxConsecutiveOnes.java)]**
 7) **[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)** **[[solution](src/main/java/DataStructure/Array/FindEvenNumberDigits.java)]**
 8) **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/RemoveDuplicates.java)]**
-9) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
-10) **[53. Maximum SubArray](https://leetcode.com/problems/maximum-subarray/)** **[[solution](src/main/java/DataStructure/Array/MaximumSumSubArray.java)]**
+9) **[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)** **[[solution](src/main/java/DataStructure/Array/MoveZeroes.java)]**
+10) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
+11) **[53. Maximum SubArray](https://leetcode.com/problems/maximum-subarray/)** **[[solution](src/main/java/DataStructure/Array/MaximumSumSubArray.java)]**
 
 ### Matrix Problems
 #### Easy:
