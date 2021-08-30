@@ -8,9 +8,9 @@
 4) **[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** **[[solution](src/main/java/DataStructure/Array/ContainsDuplicateNumber.java)]**
 5) **[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)** **[[solution](src/main/java/DataStructure/Array/ContainsNearbyDuplicate.java)]**
 6) **[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)** **[[solution](src/main/java/DataStructure/Array/MaxConsecutiveOnes.java)]**
-7) **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/RemoveDuplicates.java)]**
-8) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
-9) **[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)** **[[solution](src/main/java/DataStructure/Array/FindEvenNumberDigits.java)]**
+7) **[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)** **[[solution](src/main/java/DataStructure/Array/FindEvenNumberDigits.java)]**
+8) **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/RemoveDuplicates.java)]**
+9) **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)** **[[solution](src/main/java/DataStructure/Array/MergeSortedArray.java)]**
 10) **[53. Maximum SubArray](https://leetcode.com/problems/maximum-subarray/)** **[[solution](src/main/java/DataStructure/Array/MaximumSumSubArray.java)]**
 
 ### Matrix Problems

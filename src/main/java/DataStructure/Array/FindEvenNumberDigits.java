@@ -19,6 +19,7 @@ public class FindEvenNumberDigits {
         return evenNum;
     }
 
+    // util function for counting the digits in a number
     public static int countNumberOfDigits(int num) {
         int count = 0;
         while (num != 0) {
@@ -28,10 +29,9 @@ public class FindEvenNumberDigits {
         return count;
     }
 
-    //constraint based solution
-
     // Time Complexity : O(n)
     // Space Complexity: O(1)
+    // constraint based solution
     public int findNumbersConstraints(int[] nums) {
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
