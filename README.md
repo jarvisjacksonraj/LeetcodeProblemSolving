@@ -18,3 +18,11 @@
 #### Easy:
 1) **[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)** **[[solution](src/main/java/DataStructure/Matrix/MatrixDiagonalSum.java)]**
 2) **[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)** **[[solution](src/main/java/DataStructure/Matrix/FlippingImageMatrix.java)]**
+
+### Design Problems
+#### Medium:
+1) **[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)** **[[solution](src/main/java/Design/DesignLinkedList.java)]**
+
+### String Problems
+#### Easy:
+1) **[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)** **[[solution](src/main/java/DataStructure/String/IsSubsequence.java)]**
