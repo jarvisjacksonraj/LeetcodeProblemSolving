@@ -1,6 +1,6 @@
 package Design;
 
-class DesignLinkedList {
+public class DesignLinkedList {
 
     class Node {
         private int val;
