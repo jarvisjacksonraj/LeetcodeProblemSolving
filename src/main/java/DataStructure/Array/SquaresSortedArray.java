@@ -6,6 +6,9 @@ package DataStructure.Array;
  */
 
 public class SquaresSortedArray {
+
+    // Time Complexity : O(n)
+    // Space Complexity: O(1)
     public int[] sortedSquares(int[] nums) {
         int start = 0;
         int end = nums.length - 1;
