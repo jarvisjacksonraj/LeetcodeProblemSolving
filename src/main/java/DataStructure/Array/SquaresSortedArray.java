@@ -2,7 +2,7 @@ package DataStructure.Array;
 
 /**
  * Array: Easy
- * 977. Squares of a Sorted Array
+ * 121. Best Time to Buy and Sell Stock
  */
 
 public class SquaresSortedArray {
